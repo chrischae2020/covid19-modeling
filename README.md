@@ -1,4 +1,4 @@
-# Covid_19_Modeling
+# Covid-19 Modeling
 Machine Learning models w/ SHAP using CDC Case Surveillance public dataset
 Currently ongoing
 
